@@ -15,7 +15,7 @@
 
 #### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ajvadntr/AIOM-TG-URL-UPLODER-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Btmanjusms/AIOM-TG-URL-UPLODER-BOT1)
 
 **Watch our Video for Create own Bot** - 👉 https://youtu.be/QkAkSLBgoYw
 
